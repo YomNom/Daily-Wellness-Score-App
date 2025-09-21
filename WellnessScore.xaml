@@ -3,15 +3,130 @@
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              x:Class="yongjy_WellnessScore.WellnessScore"
              Title="WellnessScore">
-    <VerticalStackLayout>
-        <Label 
-            Text="DAILY WELLNESS SCORE"
-            FontAttributes="Bold"
-            VerticalOptions="Center" 
-            HorizontalOptions="Center" />
 
-        <HorizontalStackLayout>
+    <Grid RowDefinitions="Auto,Auto,*"
+          ColumnDefinitions="*,*"
+          Margin="20"
+          RowSpacing="30"
+          ColumnSpacing="20">
+
+        <Label Text="DAILY WELLNESS SCORE"
+               Grid.Row="0"
+               Grid.Column="0"
+               Grid.ColumnSpan="2"
+               FontSize="Large"
+               HorizontalOptions="Center"
+               FontAttributes="Bold"
+               />
+
+        <!-- Male Selectable Image -->
+        <Border Grid.Row="1"
+                Grid.Column="0"
+                WidthRequest="100"
+                HeightRequest="100"
+                Padding="20"
+                StrokeShape="RoundRectangle 15"
+                Stroke="DarkBlue"
+                BackgroundColor="White"
+                x:Name="FrameMale">
+            <Image Source="male.png">
+                <Image.GestureRecognizers>
+                    <TapGestureRecognizer Tapped="TapGestureRecognizer_Tapped" />
+                </Image.GestureRecognizers>
+            </Image>
+
+        </Border>
+
+        <!-- Female Selectable Image -->
+        <Border Grid.Row="1"
+                Grid.Column="1"
+                WidthRequest="100"
+                HeightRequest="100"
+                Padding="20"
+                StrokeShape="RoundRectangle 15"
+                Stroke="Pink"
+                x:Name="FrameFemale">
+            <Image Source="female.png">
+                <Image.GestureRecognizers>
+                    <TapGestureRecognizer Tapped="TapGestureRecognizer_Tapped_1" />
+                </Image.GestureRecognizers>
+            </Image>
+        </Border>
+
+        <VerticalStackLayout HorizontalOptions="Center" 
+                             Grid.Row="2"
+                             Grid.ColumnSpan="2">
             
-        </HorizontalStackLayout>
-    </VerticalStackLayout>
+            <!-- Sleep Hours Slider -->
+            <Label Text="Sleep Hours (last night)"
+                   FontSize="Body" 
+                   HorizontalOptions="Center"
+                   />
+            <Label HorizontalOptions="Center"
+                   FontAttributes="Bold"
+                   Text="{Binding Source={x:Reference SleepHrs},
+                          Path=Value,
+                          StringFormat='{0:f0}'}" 
+                   x:Name="LblSleep"
+                   />
+            <Slider ThumbColor="DarkBlue"
+                    x:Name="SleepHrs"
+                    Minimum="0"
+                    Maximum="12"
+                    Value="7"
+                />
+            
+            <!-- Stress Level Slider -->
+            <Label Text="Stress Level"
+                   FontSize="Body" 
+                   HorizontalOptions="Center"
+                   />
+            
+            <Label HorizontalOptions="Center"
+                   FontAttributes="Bold"
+                   Text="{Binding Source={x:Reference StressLvl},
+                          Path=Value,
+                          StringFormat='{0:f0}'}" 
+                   x:Name="LblStress"
+                   />
+            
+            <Slider ThumbColor="DarkBlue"
+                    x:Name="StressLvl"
+                    Minimum="0"
+                    Maximum="10"
+                    Value="4"
+                    MinimumTrackColor="Gold"
+                    MaximumTrackColor="Green"
+                    />
+
+            <!-- Activity Minutes Slider-->
+            <Label Text="Activity Minutes (today)"
+                   FontSize="Body" 
+                   HorizontalOptions="Center"
+                   Margin="0,40,0,0"
+                   />
+            <Label Text="Any exercise, walking, or physical activity counts"
+                   FontSize="12"/>
+            <Label HorizontalOptions="Center"
+                   FontAttributes="Bold"
+                   Text="{Binding Source={x:Reference ActivityMin},
+                                  Path=Value,
+                                  StringFormat='{0:f0}'}" 
+                   x:Name="LblActivity"
+                   />
+            <Slider ThumbColor="DarkBlue"
+                    x:Name="ActivityMin"
+                    Minimum="0"
+                    Maximum="120"
+                    Value="30"
+                    />
+
+            <Button Text="Submit"
+                    Margin="0,50,0,0"
+                    Clicked="Button_Clicked"/>
+        </VerticalStackLayout>
+        
+        
+        
+    </Grid>
 </ContentPage>

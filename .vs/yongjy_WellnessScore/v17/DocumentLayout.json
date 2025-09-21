@@ -7,6 +7,20 @@
       "RelativeMoniker": "D:0:0:{2E2FC6DD-C6B6-4734-9DE8-F6A1BDC1D756}|yongjy_WellnessScore.csproj|solutionrelative:wellnessscore.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{2E2FC6DD-C6B6-4734-9DE8-F6A1BDC1D756}|yongjy_WellnessScore.csproj|c:\\maui apps\\yongjy_wellnessscore\\wellnessscore.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E2FC6DD-C6B6-4734-9DE8-F6A1BDC1D756}|yongjy_WellnessScore.csproj|solutionrelative:wellnessscore.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Maui Apps\\AreaCalc_SlideDemo\\AreaCalc.xaml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Maui Apps\\AreaCalc_SlideDemo\\AreaCalc.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E2FC6DD-C6B6-4734-9DE8-F6A1BDC1D756}|yongjy_WellnessScore.csproj|c:\\maui apps\\yongjy_wellnessscore\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{2E2FC6DD-C6B6-4734-9DE8-F6A1BDC1D756}|yongjy_WellnessScore.csproj|solutionrelative:app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{2E2FC6DD-C6B6-4734-9DE8-F6A1BDC1D756}|yongjy_WellnessScore.csproj|c:\\maui apps\\yongjy_wellnessscore\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2E2FC6DD-C6B6-4734-9DE8-F6A1BDC1D756}|yongjy_WellnessScore.csproj|solutionrelative:mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -17,10 +31,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{2E2FC6DD-C6B6-4734-9DE8-F6A1BDC1D756}|yongjy_WellnessScore.csproj|c:\\maui apps\\yongjy_wellnessscore\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2E2FC6DD-C6B6-4734-9DE8-F6A1BDC1D756}|yongjy_WellnessScore.csproj|solutionrelative:app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2E2FC6DD-C6B6-4734-9DE8-F6A1BDC1D756}|yongjy_WellnessScore.csproj|c:\\maui apps\\yongjy_wellnessscore\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{2E2FC6DD-C6B6-4734-9DE8-F6A1BDC1D756}|yongjy_WellnessScore.csproj|solutionrelative:app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{2E2FC6DD-C6B6-4734-9DE8-F6A1BDC1D756}|yongjy_WellnessScore.csproj|c:\\maui apps\\yongjy_wellnessscore\\yongjy_wellnessscore.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
@@ -34,11 +44,25 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "WellnessScore.xaml.cs",
+              "DocumentMoniker": "C:\\Maui Apps\\yongjy_WellnessScore\\WellnessScore.xaml.cs",
+              "RelativeDocumentMoniker": "WellnessScore.xaml.cs",
+              "ToolTip": "C:\\Maui Apps\\yongjy_WellnessScore\\WellnessScore.xaml.cs",
+              "RelativeToolTip": "WellnessScore.xaml.cs",
+              "ViewState": "AgIAADkAAAAAAAAAAAAiwEgAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-19T19:57:14.002Z",
+              "IsPinned": true,
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -48,14 +72,41 @@
               "RelativeDocumentMoniker": "WellnessScore.xaml",
               "ToolTip": "C:\\Maui Apps\\yongjy_WellnessScore\\WellnessScore.xaml",
               "RelativeToolTip": "WellnessScore.xaml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAMAAAAAAAAAA==",
+              "ViewState": "AgIAAE8AAAAAAAAAAAAiwGEAAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2025-09-18T19:48:59.246Z",
+              "IsPinned": true,
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
+              "Title": "AreaCalc.xaml.cs",
+              "DocumentMoniker": "C:\\Maui Apps\\AreaCalc_SlideDemo\\AreaCalc.xaml.cs",
+              "RelativeDocumentMoniker": "..\\AreaCalc_SlideDemo\\AreaCalc.xaml.cs",
+              "ToolTip": "C:\\Maui Apps\\AreaCalc_SlideDemo\\AreaCalc.xaml.cs",
+              "RelativeToolTip": "..\\AreaCalc_SlideDemo\\AreaCalc.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-20T05:17:59.416Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AreaCalc.xaml",
+              "DocumentMoniker": "C:\\Maui Apps\\AreaCalc_SlideDemo\\AreaCalc.xaml",
+              "RelativeDocumentMoniker": "..\\AreaCalc_SlideDemo\\AreaCalc.xaml",
+              "ToolTip": "C:\\Maui Apps\\AreaCalc_SlideDemo\\AreaCalc.xaml",
+              "RelativeToolTip": "..\\AreaCalc_SlideDemo\\AreaCalc.xaml",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-09-20T04:31:00.733Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "App.xaml.cs",
               "DocumentMoniker": "C:\\Maui Apps\\yongjy_WellnessScore\\App.xaml.cs",
               "RelativeDocumentMoniker": "App.xaml.cs",
@@ -63,12 +114,11 @@
               "RelativeToolTip": "App.xaml.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-17T20:15:09.772Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-17T20:15:09.772Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 5,
               "Title": "MauiProgram.cs",
               "DocumentMoniker": "C:\\Maui Apps\\yongjy_WellnessScore\\MauiProgram.cs",
               "RelativeDocumentMoniker": "MauiProgram.cs",
@@ -76,8 +126,7 @@
               "RelativeToolTip": "MauiProgram.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-17T20:15:00.489Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-17T20:15:00.489Z"
             },
             {
               "$type": "Document",
@@ -87,14 +136,14 @@
               "RelativeDocumentMoniker": "App.xaml",
               "ToolTip": "C:\\Maui Apps\\yongjy_WellnessScore\\App.xaml",
               "RelativeToolTip": "App.xaml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2025-09-17T20:14:57.79Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 6,
               "Title": "GlobalXmlns.cs",
               "DocumentMoniker": "C:\\Maui Apps\\yongjy_WellnessScore\\GlobalXmlns.cs",
               "RelativeDocumentMoniker": "GlobalXmlns.cs",
@@ -102,12 +151,11 @@
               "RelativeToolTip": "GlobalXmlns.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-17T20:14:56.24Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-17T20:14:56.24Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 8,
               "Title": "yongjy_WellnessScore.csproj",
               "DocumentMoniker": "C:\\Maui Apps\\yongjy_WellnessScore\\yongjy_WellnessScore.csproj",
               "RelativeDocumentMoniker": "yongjy_WellnessScore.csproj",

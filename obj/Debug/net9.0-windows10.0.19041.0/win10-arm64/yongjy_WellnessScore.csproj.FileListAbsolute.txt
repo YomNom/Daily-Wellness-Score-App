@@ -53,11 +53,6 @@ C:\Maui Apps\yongjy_WellnessScore\bin\Debug\net9.0-windows10.0.19041.0\win10-arm
 C:\Maui Apps\yongjy_WellnessScore\bin\Debug\net9.0-windows10.0.19041.0\win10-arm64\appiconWideTile.scale-150.png
 C:\Maui Apps\yongjy_WellnessScore\bin\Debug\net9.0-windows10.0.19041.0\win10-arm64\appiconWideTile.scale-200.png
 C:\Maui Apps\yongjy_WellnessScore\bin\Debug\net9.0-windows10.0.19041.0\win10-arm64\appiconWideTile.scale-400.png
-C:\Maui Apps\yongjy_WellnessScore\bin\Debug\net9.0-windows10.0.19041.0\win10-arm64\dotnet_bot.scale-100.png
-C:\Maui Apps\yongjy_WellnessScore\bin\Debug\net9.0-windows10.0.19041.0\win10-arm64\dotnet_bot.scale-125.png
-C:\Maui Apps\yongjy_WellnessScore\bin\Debug\net9.0-windows10.0.19041.0\win10-arm64\dotnet_bot.scale-150.png
-C:\Maui Apps\yongjy_WellnessScore\bin\Debug\net9.0-windows10.0.19041.0\win10-arm64\dotnet_bot.scale-200.png
-C:\Maui Apps\yongjy_WellnessScore\bin\Debug\net9.0-windows10.0.19041.0\win10-arm64\dotnet_bot.scale-400.png
 C:\Maui Apps\yongjy_WellnessScore\bin\Debug\net9.0-windows10.0.19041.0\win10-arm64\CoreMessagingXP.dll
 C:\Maui Apps\yongjy_WellnessScore\bin\Debug\net9.0-windows10.0.19041.0\win10-arm64\dcompi.dll
 C:\Maui Apps\yongjy_WellnessScore\bin\Debug\net9.0-windows10.0.19041.0\win10-arm64\dwmcorei.dll
@@ -477,11 +472,6 @@ C:\Maui Apps\yongjy_WellnessScore\obj\Debug\net9.0-windows10.0.19041.0\win10-arm
 C:\Maui Apps\yongjy_WellnessScore\obj\Debug\net9.0-windows10.0.19041.0\win10-arm64\resizetizer\r\appiconWideTile.scale-150.png
 C:\Maui Apps\yongjy_WellnessScore\obj\Debug\net9.0-windows10.0.19041.0\win10-arm64\resizetizer\r\appiconWideTile.scale-200.png
 C:\Maui Apps\yongjy_WellnessScore\obj\Debug\net9.0-windows10.0.19041.0\win10-arm64\resizetizer\r\appiconWideTile.scale-400.png
-C:\Maui Apps\yongjy_WellnessScore\obj\Debug\net9.0-windows10.0.19041.0\win10-arm64\resizetizer\r\dotnet_bot.scale-100.png
-C:\Maui Apps\yongjy_WellnessScore\obj\Debug\net9.0-windows10.0.19041.0\win10-arm64\resizetizer\r\dotnet_bot.scale-125.png
-C:\Maui Apps\yongjy_WellnessScore\obj\Debug\net9.0-windows10.0.19041.0\win10-arm64\resizetizer\r\dotnet_bot.scale-150.png
-C:\Maui Apps\yongjy_WellnessScore\obj\Debug\net9.0-windows10.0.19041.0\win10-arm64\resizetizer\r\dotnet_bot.scale-200.png
-C:\Maui Apps\yongjy_WellnessScore\obj\Debug\net9.0-windows10.0.19041.0\win10-arm64\resizetizer\r\dotnet_bot.scale-400.png
 C:\Maui Apps\yongjy_WellnessScore\obj\Debug\net9.0-windows10.0.19041.0\win10-arm64\mauiimage.stamp
 C:\Maui Apps\yongjy_WellnessScore\obj\Debug\net9.0-windows10.0.19041.0\win10-arm64\mauiimage.outputs
 C:\Maui Apps\yongjy_WellnessScore\obj\Debug\net9.0-windows10.0.19041.0\win10-arm64\yongjy_WellnessScore.AssemblyInfoInputs.cache
@@ -509,3 +499,8 @@ C:\Maui Apps\yongjy_WellnessScore\obj\Debug\net9.0-windows10.0.19041.0\win10-arm
 C:\Maui Apps\yongjy_WellnessScore\obj\Debug\net9.0-windows10.0.19041.0\win10-arm64\qualifiers.txt
 C:\Maui Apps\yongjy_WellnessScore\obj\Debug\net9.0-windows10.0.19041.0\win10-arm64\qualifiers.txt.intermediate
 C:\Maui Apps\yongjy_WellnessScore\obj\Debug\net9.0-windows10.0.19041.0\win10-arm64\MultipleQualifiersPerDimensionFound.txt
+C:\Maui Apps\yongjy_WellnessScore\bin\Debug\net9.0-windows10.0.19041.0\win10-arm64\female.scale-100.png
+C:\Maui Apps\yongjy_WellnessScore\bin\Debug\net9.0-windows10.0.19041.0\win10-arm64\male.scale-100.png
+C:\Maui Apps\yongjy_WellnessScore\obj\Debug\net9.0-windows10.0.19041.0\win10-arm64\resizetizer\r\female.scale-100.png
+C:\Maui Apps\yongjy_WellnessScore\obj\Debug\net9.0-windows10.0.19041.0\win10-arm64\resizetizer\r\male.scale-100.png
+C:\Maui Apps\yongjy_WellnessScore\obj\Debug\net9.0-windows10.0.19041.0\win10-arm64\yongjy_WellnessScore.sourcelink.json
