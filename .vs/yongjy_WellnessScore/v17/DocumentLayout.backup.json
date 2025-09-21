@@ -44,21 +44,17 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
-            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "WellnessScore.xaml.cs",
               "DocumentMoniker": "C:\\Maui Apps\\yongjy_WellnessScore\\WellnessScore.xaml.cs",
               "RelativeDocumentMoniker": "WellnessScore.xaml.cs",
-              "ToolTip": "C:\\Maui Apps\\yongjy_WellnessScore\\WellnessScore.xaml.cs*",
-              "RelativeToolTip": "WellnessScore.xaml.cs*",
-              "ViewState": "AgIAADMAAAAAAAAAAAAiwEgAAAAvAAAAAAAAAA==",
+              "ToolTip": "C:\\Maui Apps\\yongjy_WellnessScore\\WellnessScore.xaml.cs",
+              "RelativeToolTip": "WellnessScore.xaml.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAcwCAAAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-19T19:57:14.002Z",
               "IsPinned": true,
@@ -72,11 +68,15 @@
               "RelativeDocumentMoniker": "WellnessScore.xaml",
               "ToolTip": "C:\\Maui Apps\\yongjy_WellnessScore\\WellnessScore.xaml",
               "RelativeToolTip": "WellnessScore.xaml",
-              "ViewState": "AgIAAEYAAAAAAAAAAAAiwD4AAAAtAAAAAAAAAA==",
+              "ViewState": "AgIAAE8AAAAAAAAAAAAiwGEAAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2025-09-18T19:48:59.246Z",
               "IsPinned": true,
               "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
             },
             {
               "$type": "Document",
@@ -88,8 +88,7 @@
               "RelativeToolTip": "..\\AreaCalc_SlideDemo\\AreaCalc.xaml.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAACAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-20T05:17:59.416Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-20T05:17:59.416Z"
             },
             {
               "$type": "Document",
@@ -101,8 +100,7 @@
               "RelativeToolTip": "..\\AreaCalc_SlideDemo\\AreaCalc.xaml",
               "ViewState": "AgIAACQAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-09-20T04:31:00.733Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-20T04:31:00.733Z"
             },
             {
               "$type": "Document",
@@ -138,8 +136,7 @@
               "RelativeToolTip": "App.xaml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-09-17T20:14:57.79Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-17T20:14:57.79Z"
             },
             {
               "$type": "Document",
@@ -163,8 +160,7 @@
               "RelativeToolTip": "yongjy_WellnessScore.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-09-17T20:14:12.725Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-17T20:14:12.725Z"
             }
           ]
         }
