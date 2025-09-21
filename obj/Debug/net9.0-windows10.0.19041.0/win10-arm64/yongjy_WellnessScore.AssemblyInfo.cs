@@ -18,7 +18,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("yongjy_WellnessScore")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0+c262119e79358e290a2f658bb4461e3b09d42c66")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0+1b4053ff41fc41ee4bdfad053ffe0bfa9e35dacb")]
 [assembly: System.Reflection.AssemblyProductAttribute("yongjy_WellnessScore")]
 [assembly: System.Reflection.AssemblyTitleAttribute("yongjy_WellnessScore")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
