@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="yongjy_WellnessScore.Wellness_Rec"
+             Title=""
+             NavigationPage.HasNavigationBar="False">
+    <VerticalStackLayout Margin="0,30,0,0">
+        <Label 
+            Text="What do your results mean?"
+            FontSize="36"
+            FontAttributes="Bold" 
+            Padding="15"
+            HorizontalTextAlignment="Center"
+            VerticalOptions="Center" 
+            HorizontalOptions="Center" />
+        <VerticalStackLayout>
+            <Label Text="Based on your score, you are in"
+                   VerticalOptions="Center"
+                   HorizontalOptions="Center"/>
+            <Label x:Name="LblCondition"
+                   VerticalOptions="Center"
+                   FontSize="20"
+                   FontAttributes="Bold"
+                   HorizontalOptions="Center"/>
+            <Label x:Name="LblRec"
+                    Padding="20"
+                    Margin="25,0,0,0"
+                    VerticalOptions="Center" 
+                    HorizontalOptions="Center"/>
+        </VerticalStackLayout>
+        <HorizontalStackLayout Padding="10"
+                               HorizontalOptions="Center"
+                               VerticalOptions="Center">
+            <Button Text="Back to Results"
+                    Margin="15"
+                    Clicked="Back_Results"/> 
+            <Button Text="Test Again"
+                    Margin="15"
+                    Clicked="Go_Home"/>
+        </HorizontalStackLayout>
+    </VerticalStackLayout>
+</ContentPage>

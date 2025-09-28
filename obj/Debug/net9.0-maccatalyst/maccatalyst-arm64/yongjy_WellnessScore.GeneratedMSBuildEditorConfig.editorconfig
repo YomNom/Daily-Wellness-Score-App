@@ -41,3 +41,15 @@ build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = yongjy_WellnessScore.WellnessScore.xaml
 build_metadata.AdditionalFiles.TargetPath = WellnessScore.xaml
 build_metadata.AdditionalFiles.RelativePath = WellnessScore.xaml
+
+[C:/Maui Apps/yongjy_WellnessScore/Wellness_Rec.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = yongjy_WellnessScore.Wellness_Rec.xaml
+build_metadata.AdditionalFiles.TargetPath = Wellness_Rec.xaml
+build_metadata.AdditionalFiles.RelativePath = Wellness_Rec.xaml
+
+[C:/Maui Apps/yongjy_WellnessScore/Wellness_Result.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = yongjy_WellnessScore.Wellness_Result.xaml
+build_metadata.AdditionalFiles.TargetPath = Wellness_Result.xaml
+build_metadata.AdditionalFiles.RelativePath = Wellness_Result.xaml
